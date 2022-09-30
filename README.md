@@ -28,5 +28,9 @@ objects precisely on the 360-videos, and track those overlays as the scene chang
 Stream the panoramic view of a physical space from one 360-camera to a VR headset. Also
 overlay virtual objects on the camera stream.
 
+# Potential Difficults
+
+# Timeline
+
 
 
