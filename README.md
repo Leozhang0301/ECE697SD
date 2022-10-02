@@ -3,7 +3,7 @@
 # Team Members
 
 **Yixiang Zhang**
-* responsible for fusing virtual content with the vedio stream captured by 360 camera
+* responsible for fusing virtual content with the stream captured by 360 camera
     
 **Zhaolong Wei**
 * responsible for capture video stream from the physical environment by using 360 camera and teleport the captured stream to computer in order to mix with virtual content 
