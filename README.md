@@ -31,6 +31,9 @@ overlay virtual objects on the camera stream.
 # Deliverables
 We are going to create an empty room and add virtual furniture in this room
 
+# Block Diagram
+![block_diagram](doc/figures/block_diagram.png)
+
 # Potential Challenges
 One of the biggest challenge that we may face would be how to mix the virtual content with the stream captured by the 360 camera. Unity may be used for mixing and rendering virtual content. In that case, we need to get familiar with Unity and how to render a virtual content.
 
